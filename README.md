@@ -5,6 +5,7 @@
 | ---- | --------- |
 | Victor Eduardo Araújo Ribeiro | 190038926 |
 | Pedro Victor Lima Torreão | 190036761 |
+| Guilherme de Oliveira Mendes | 180113496 |
 
 ## 📋 Visão Geral
 Este projeto implementa diferentes versões paralelas do **Jogo da Vida de Conway** para comparação de performance entre paradigmas de programação paralela:
